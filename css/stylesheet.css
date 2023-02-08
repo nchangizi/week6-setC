@@ -1,4 +1,4 @@
-.container  h2{
+/* .container  h2{
     font-style: italic
 }
 
@@ -31,4 +31,25 @@ li:first-child::first-letter{
 a[href*="https://bcit"]
 {
     background-color: yellow;
+} */
+.main {
+  color: rebeccapurple;
+  border: 2px solid #ccc;
+  padding: 1em;
+}
+.special {
+  color: green;
+}
+
+img {
+  float: left;
+  margin-right: 15px;
+}
+
+p {
+  background-color: red;
+}
+
+.below {
+  clear: left;
 }
